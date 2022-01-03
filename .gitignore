@@ -1,0 +1,10 @@
+# IDE files
+.idea/
+
+# My files
+count_files/
+
+# My scripts
+create-count-file-smog.py
+create-count-files-hd.py
+check-count-files-metroclima.py
